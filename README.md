@@ -57,7 +57,7 @@ I am a researcher with a Ph.D. in Robotics and Mechatronics Engineering. My rese
 *(For a complete list of publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=PsL3CMYAAAAJ&hl=en).)*
 
 * **Loo JY**, Ding ZY, Baskaran VM, Nurzaman SG, Tan CP. Robust multimodal indirect sensing for soft robots via neural network-aided filter-based estimation. *Soft Robotics*, 9(3): 591–612, 2022.
-* **Loo JY**, Ding ZY, Baskaran VM, Nurzaman SG, Tan CP. Sigma-point Kalman filter with nonlinear unknown input estimation via optimization and data-driven approach for dynamic systems. [cite_start]*IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 54(10): 6068–6081, 2024.
+* **Loo JY**, Ding ZY, Baskaran VM, Nurzaman SG, Tan CP. Sigma-point Kalman filter with nonlinear unknown input estimation via optimization and data-driven approach for dynamic systems. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 54(10): 6068–6081, 2024.
 * **Loo JY**, Adeline M, Lau JK, Leong FY, Tew HH, Pal A, Baskaran VM, Ting CM, Phan RCW. Learning energy-based generative models via potential flow: A variational principle approach to probability density homotopy matching. *Transactions on Machine Learning Research (TMLR)* [JCR Certification], 2025.
 * **Loo JY**, Tew HH, Leong FY, Ding ZY, Baskaran VM, Ting C-M, Tan CP. A deep probabilistic flow-based framework for unsupervised cross-domain soft sensing. *IEEE Transactions on Industrial Informatics*, In Press, 2026.
 * Ding ZY, **Loo JY**, Baskaran VM, Nurzaman SG, Tan CP. Predictive uncertainty estimation using deep learning for soft robot multimodal sensing. *IEEE Robotics and Automation Letters*, 6(2): 951–957, 2021.
