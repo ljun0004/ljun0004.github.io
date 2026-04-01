@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a researcher with a Ph.D. in Robotics and Mechatronics Engineering. My core research areas span probabilistic deep learning, state estimation, robotics and automation. Currently, my work focuses heavily on advancing generative models with applications in medical imaging, industrial informatics, and robotics.
+I am a researcher with a Ph.D. in Robotics and Mechatronics Engineering. My research areas span generative models and state estimation, with applications in medical imaging, industrial informatics, and robotics.
 
 ## News & Updates
 * **April 2026:** Commenced a new role as a Postdoctoral Research Fellow at Nanyang Technological University (NTU) in the SIGNAL group.
