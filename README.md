@@ -1,3 +1,11 @@
+---
+layout: default
+title: ""
+---
+<style>
+  header, .site-header, .page-header { display: none !important; }
+</style>
+
 <img align="right" src="assets/profile.jpg" alt="Junn Yong Loo" width="300">
 
 # Junn Yong Loo
