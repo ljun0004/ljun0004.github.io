@@ -1,4 +1,4 @@
-<img align="right" src="assets/profile.jpg" alt="Junn Yong Loo" width="300">
+<img align="right" src="assets/profile.jpg" alt="Junn Yong Loo" width="275">
 
 # Junn Yong Loo
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junnyong.loo@ntu.edu.sg)
