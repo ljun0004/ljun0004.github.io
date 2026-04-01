@@ -1,11 +1,3 @@
----
-layout: default
-title: ""
----
-<style>
-  header, .site-header, .page-header { display: none !important; }
-</style>
-
 <img align="right" src="assets/profile.jpg" alt="Junn Yong Loo" width="300">
 
 # Junn Yong Loo
@@ -54,7 +46,6 @@ I am a researcher with a Ph.D. in Robotics and Mechatronics Engineering. My rese
 ---
 
 ## Selected Publications
-*(For a complete list of publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=PsL3CMYAAAAJ&hl=en).)*
 
 * **Loo JY**, Ding ZY, Baskaran VM, Nurzaman SG, Tan CP. Robust multimodal indirect sensing for soft robots via neural network-aided filter-based estimation. *Soft Robotics*, 9(3): 591–612, 2022.
 * **Loo JY**, Ding ZY, Baskaran VM, Nurzaman SG, Tan CP. Sigma-point Kalman filter with nonlinear unknown input estimation via optimization and data-driven approach for dynamic systems. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 54(10): 6068–6081, 2024.
