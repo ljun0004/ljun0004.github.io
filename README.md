@@ -1,16 +1,7 @@
-<table border="0" style="width: 100%;">
-  <tr>
-    <td>
-      <h1>Junn Yong Loo</h1>
-      <a href="mailto:loo.junnyong@monash.edu">Email</a> | 
-      <a href="https://scholar.google.com/citations?user=PsL3CMYAAAAJ&hl=en">Google Scholar</a> | 
-      <a href="https://www.linkedin.com/in/loo-junn-yong-41396a98">LinkedIn</a>
-    </td>
-    <td style="text-align: right;">
-      <img src="assets/profile.jpg" alt="Junn Yong Loo" width="160" style="border-radius: 50%;">
-    </td>
-  </tr>
-</table>
+<img align="right" src="assets/profile.jpg" alt="Junn Yong Loo" width="300">
+
+# Junn Yong Loo
+[Email](mailto:loo.junnyong@monash.edu) | [Google Scholar](https://scholar.google.com/citations?user=PsL3CMYAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/loo-junn-yong-41396a98)
 
 ---
 
